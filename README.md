@@ -1,10 +1,10 @@
-# Flomatexs Construction Limited
+# Pinnacle Plans Co
 
-Welcome to the Flomatexs Construction Limited GitHub repository! This repository contains various resources and documentation related to our construction projects and services.
+Welcome to the Pinnacle Plans Co GitHub repository! This repository contains various resources and documentation related to our construction projects and services.
 
 ## About Us
 
-Flomatexs Construction Limited is a leading construction company with over 15 years of experience in delivering excellence. Our team of skilled professionals is committed to exceeding expectations and setting new standards of craftsmanship in the construction industry. From residential developments to commercial complexes, industrial facilities, and infrastructure projects, we have successfully completed a wide range of projects, earning a reputation for reliability, integrity, and superior quality.
+Pinnacle Plans Co is a leading construction company with over 15 years of experience in delivering excellence. Our team of skilled professionals is committed to exceeding expectations and setting new standards of craftsmanship in the construction industry. From residential developments to commercial complexes, industrial facilities, and infrastructure projects, we have successfully completed a wide range of projects, earning a reputation for reliability, integrity, and superior quality.
 
 ## Projects
 
